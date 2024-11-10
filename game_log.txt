@@ -1,0 +1,2 @@
+2024-11-07 14:19:20,132 - ERROR - Error loading scores: name 'SAVE_FILE' is not defined
+2024-11-07 14:19:55,881 - ERROR - Error saving scores: name 'SAVE_FILE' is not defined

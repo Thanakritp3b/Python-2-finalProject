@@ -1,0 +1,15 @@
+project/
+    ├── main.py               
+    ├── config.py           
+    ├── sprites/             
+    │   ├── __init__.py
+    │   ├── player.py
+    │   ├── enemy.py
+    │   ├── boss.py
+    │   ├── bullet.py
+    │   └── powerup.py
+    ├── utils/              
+       ├
+       ├── score_manager.py
+       └── error_handler.py
+   
